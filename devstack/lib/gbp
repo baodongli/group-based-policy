@@ -22,13 +22,13 @@ GBPUI_DIR=$DEST/gbpui
 NEUTRON_CONF_DIR=/etc/neutron
 NEUTRON_CONF=$NEUTRON_CONF_DIR/neutron.conf
 GBP_CONF_DIR=/etc/gbp
-AIM_REPO=http://github.com/noironetworks/aci-integration-module.git
+AIM_REPO=https://github.com/noironetworks/aci-integration-module.git
 AIM_DIR=$DEST/aim
-APICML2_REPO=http://github.com/noironetworks/apic-ml2-driver.git
+APICML2_REPO=https://github.com/noironetworks/apic-ml2-driver.git
 APICML2_DIR=$DEST/apic_ml2
-OPFLEX_REPO=http://github.com/noironetworks/python-opflex-agent.git
+OPFLEX_REPO=https://github.com/noironetworks/python-opflex-agent.git
 OPFLEX_DIR=$DEST/opflexagent
-APICAPI_REPO=http://github.com/noironetworks/apicapi.git
+APICAPI_REPO=https://github.com/noironetworks/apicapi.git
 APICAPI_DIR=$DEST/apicapi
 
 # Save trace setting
